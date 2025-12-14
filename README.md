@@ -4,9 +4,9 @@ A Task Management app with time saving features like timer, pomodromo, procrasti
 
 ## Links
 
-* [Website](https://todotxt.netlify.app/)
+* [Website](https://tasktime27.netlify.app/)
 * [Github](https://github.com/moodynooby/TaskTimer)
-* [Sister Project](https://github.com/moodynooby/smarttask)
+* [Sister Project](https://github.com/moodynooby/Todo.Txt)
 
 ## Features
 
